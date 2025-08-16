@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["n8n", "getlate", "automation", "social media"],
+  "keywords": ["n8n", "n8n-community-node-package", "getlate", "automation", "social media"],
   "author": "Your Name",
   "license": "MIT",
   "devDependencies": {
