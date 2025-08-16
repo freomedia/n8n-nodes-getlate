@@ -1,0 +1,15 @@
+{
+  "name": "n8n-nodes-getlate",
+  "version": "0.1.0",
+  "description": "n8n community node for Getlate API integration",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["n8n", "getlate", "automation", "social media"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
